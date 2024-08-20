@@ -2,7 +2,7 @@
 
 Meu nome é Lucas Emanuel
 
-Estou estudando no alura
+Estou estudando no [alura](https://www.alura.com.br)
 Estou me desenvolvendo na linguagem javaScript
 Ultilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
 
